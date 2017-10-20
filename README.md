@@ -1,5 +1,5 @@
 # United Kingdom crime statistic
-Android application accessing to Polce United Kingdom statistic API.
+Android application accessing to Police United Kingdom statistic API.
 ver 1.0
 
 ### Functions:
@@ -10,7 +10,7 @@ ver 1.0
 5. Change statistic period
 
 ## Application use:
-* RxAndroid - for recive and response data from API's 
+* RxAndroid - for recive and recognize data from API's 
 * retrofit2 - for http access
 * MVC sturcture for expand project
 
