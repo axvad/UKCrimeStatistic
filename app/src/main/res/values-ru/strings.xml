@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Преступления во Великобритании</string>
+    <string name="error_data_not_filling">Загрузите события для фильтрации</string>
+    <string name="title_activity_maps">Преступления во Великобритании</string>
+    <string name="title_dialog_date">Выберите период (месяц, год)</string>
+    <string name="title_dialog_filter">Показать категории</string>
+    <string name="error_map_not_ready">Google map не загружена</string>
+    <string name="title_switch_all_categories">Все категории</string>
+    <string name="menu_filter_categories">Покывать категории</string>
+    <string name="menu_search_address">Выбрать адрес</string>
+    <string name="menu_choose_period">Выбрать период</string>
+    <string name="menu_show_events">Показать преступления</string>
+    <string name="title_dialog_address">Найти по адресу</string>
+    <string name="title_dialog_results">Найденные результаты</string>
+    <string name="title_dialog_city">Введите адрес</string>
+    <string name="error_nothing_for_show">Нет зарегистрированных преступлений</string>
+</resources>

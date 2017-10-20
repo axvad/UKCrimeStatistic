@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = http:/github/axvad/UKCrimeStatistic
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "github_origin"]
+	url = https://github.com/axvad/UKCrimeStatistic
+	fetch = +refs/heads/*:refs/remotes/github_origin/*

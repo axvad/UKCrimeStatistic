@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UK Crime statistic</string>
+    <string name="title_activity_maps">United Kingdom crime</string>
+    <string name="title_dialog_filter">Show crime category</string>
+    <string name="title_dialog_date">Select month</string>
+    <string name="error_data_not_filling">You need for get events first</string>
+    <string name="error_map_not_ready">Google map not ready</string>
+    <string name="error_nothing_for_show">No any crime events</string>
+    <string name="title_switch_all_categories">All categories</string>
+    <string name="menu_choose_period">Choose period</string>
+    <string name="menu_filter_categories">Filter categories</string>
+    <string name="menu_search_address">Search address</string>
+    <string name="menu_show_events">Show crime evennts</string>
+    <string name="title_dialog_address">Find area by address</string>
+    <string name="title_dialog_results">Finded result</string>
+    <string name="title_dialog_city">Address</string>
+</resources>
