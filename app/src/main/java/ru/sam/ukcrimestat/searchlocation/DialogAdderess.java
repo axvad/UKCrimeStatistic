@@ -90,7 +90,7 @@ public class DialogAdderess extends AppCompatDialogFragment implements SearchLoc
                 .setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                if (listView.getAdapter().getCount()>0) selectedPosition =0;
+                                if (listView.getAdapter() != null && listView.getAdapter().getCount()>0) selectedPosition =0;
                             }
                         }
                         //(dialog, witch) ->  {if (listView.getAdapter().getCount()>0) selectedPosition =0;}
